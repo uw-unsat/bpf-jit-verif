@@ -1,3 +1,9 @@
+# NOTE: REPOSITORY MOVED
+
+This repository has been moved to https://github.com/uw-unsat/serval-bpf .
+Please visit that repository if you want the latest version of the code
+and guide.
+
 # Linux eBPF JIT verification
 
 This repository contains a tool for formally verifying
